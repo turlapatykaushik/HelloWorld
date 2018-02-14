@@ -1,3 +1,3 @@
 from fabric.api import *
-def deploy():
+def hello():
     print "Hello World!"
